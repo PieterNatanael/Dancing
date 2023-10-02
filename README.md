@@ -1,2 +1,3 @@
 # Dancing
-Dancing Bear
+Dancing Bear App
+
